@@ -12,7 +12,10 @@ Inspired by: https://x.com/xai/status/2065099299541893577
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Use the prototype on a real task before promoting the workflow.
+Template-ready, not validated. Fill the trust packet and promotion card on a real plugin before claiming safety or promoting the skill draft.
 
 ## Next focus
 Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission evidence, then decide install / sandbox / reject.
+
+## Latest improvement
+Added prototype/Plugin Trust Promotion Decision Card.md so the next plugin review has an explicit install / sandbox / iterate / reject gate.

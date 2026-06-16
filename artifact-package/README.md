@@ -23,6 +23,7 @@ Agent plugin marketplaces are becoming app stores for skills, MCPs, hooks, and c
 
 ## Generated artifacts
 - Prototype: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Review Packet]]
+- Decision gate: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Promotion Decision Card]]
 - Infographic: [[Agent Plugin Marketplace Trust Kit/Agent Plugin Marketplace Trust Workflow]]
 - Skill draft: [[agent-plugin-trust-review/SKILL]]
 - Improvement loop: [[Agent Plugin Marketplace Trust Kit Loop]]
@@ -37,7 +38,8 @@ Explain the workflow as a short evidence pipeline so Vinay can understand the ar
 Drafted under `Artifacts/Skills/agent-plugin-trust-review/SKILL.md`; keep as a draft until one real trial proves the procedure is reusable and non-duplicative.
 
 ## Improvement backlog
-- Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission evidence, then decide install / sandbox / reject.
+- [ ] Use the trust review packet on one real marketplace plugin and attach manifest/repo/permission/sandbox evidence.
+- [x] Add a promotion decision card so the next review has an explicit install / sandbox / iterate / reject gate.
 - Replace template assumptions with a real trace, screenshot, transcript, repo link, or tool log.
 - Decide whether to promote the skill draft after evidence exists.
 
@@ -45,4 +47,5 @@ Drafted under `Artifacts/Skills/agent-plugin-trust-review/SKILL.md`; keep as a d
 https://github.com/vinayclawagent-art/agent-plugin-marketplace-trust-kit
 
 ## Change log
+- 2026-06-16: Added Plugin Trust Promotion Decision Card and README pointers. Prepared for the next real plugin trust review; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.

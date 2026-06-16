@@ -6,7 +6,7 @@ package: "[[Agent Plugin Marketplace Trust Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/agent-plugin-marketplace-trust-kit"
 cadence: nightly
 last_improved: 2026-06-16
-next_focus: "Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission evidence, then decide install / sandbox / reject."
+next_focus: "Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission/sandbox evidence, then fill the Plugin Trust Promotion Decision Card before choosing install / sandbox / iterate / reject."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -17,10 +17,10 @@ Package: [[Agent Plugin Marketplace Trust Kit]]
 Prototype: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Review Packet]]
 
 ## Current state
-Template-ready, not validated. The first artifact packet, workflow infographic, skill draft, and GitHub repo mirror exist.
+Template-ready, not validated. The first artifact packet, promotion decision card, workflow infographic, skill draft, and GitHub repo mirror exist.
 
 ## Next focus
-Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission evidence, then decide install / sandbox / reject.
+Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission/sandbox evidence, then fill [[Agent Plugin Marketplace Trust Kit/Plugin Trust Promotion Decision Card]] before choosing install / sandbox / iterate / reject.
 
 ## Evidence needed
 - Real input/example.
@@ -29,4 +29,5 @@ Use the trust review packet on one real marketplace plugin, attach manifest/repo
 - Promote / iterate / hold decision.
 
 ## Change log
+- 2026-06-16: Added Plugin Trust Promotion Decision Card as the post-packet gate; prepared for next real plugin review, not validated.
 - 2026-06-16: Created loop and first artifact packet; prepared, not validated.

@@ -15,7 +15,7 @@ Inspired by: https://x.com/xai/status/2065099299541893577
 Template-ready, not validated. Fill the trust packet and promotion card on a real plugin before claiming safety or promoting the skill draft.
 
 ## Next focus
-Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission evidence, then decide install / sandbox / reject.
+Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission/sandbox evidence, then fill prototype/Plugin Trust Promotion Decision Card.md before choosing install / sandbox / iterate / reject.
 
 ## Latest improvement
 Added prototype/Plugin Trust Promotion Decision Card.md so the next plugin review has an explicit install / sandbox / iterate / reject gate.

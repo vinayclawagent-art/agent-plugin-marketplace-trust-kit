@@ -19,3 +19,5 @@ Use the trust review packet on one real marketplace plugin, attach manifest/repo
 
 ## Latest improvement
 Added prototype/Plugin Trust Promotion Decision Card.md so the next plugin review has an explicit install / sandbox / iterate / reject gate.
+
+Latest improvement: added Post-Trial Plugin Trust Debrief Template.md on 2026-06-17; ready for next real trial, not validated.

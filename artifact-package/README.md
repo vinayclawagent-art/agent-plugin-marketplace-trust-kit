@@ -23,6 +23,7 @@ Agent plugin marketplaces are becoming app stores for skills, MCPs, hooks, and c
 
 ## Generated artifacts
 - Prototype: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Review Packet]]
+- Handoff checklist: [[Agent Plugin Marketplace Trust Kit/Trial Operator Handoff Checklist]]
 - Decision gate: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Promotion Decision Card]]
 - Infographic: [[Agent Plugin Marketplace Trust Kit/Agent Plugin Marketplace Trust Workflow]]
 - Skill draft: [[agent-plugin-trust-review/SKILL]]
@@ -40,6 +41,7 @@ Drafted under `Artifacts/Skills/agent-plugin-trust-review/SKILL.md`; keep as a d
 - Evidence index: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Evidence Index]]
 
 ## Improvement backlog
+- [x] Add [[Agent Plugin Marketplace Trust Kit/Trial Operator Handoff Checklist]] so the next real trial has an operator-ready sequence across packet, evidence index, decision card, and debrief.
 - [ ] Use the trust review packet on one real marketplace plugin and attach manifest/repo/permission/sandbox evidence.
 - [x] Add a promotion decision card so the next review has an explicit install / sandbox / iterate / reject gate.
 - Replace template assumptions with a real trace, screenshot, transcript, repo link, or tool log.
@@ -55,3 +57,5 @@ https://github.com/vinayclawagent-art/agent-plugin-marketplace-trust-kit
 - 2026-06-16: Added Plugin Trust Promotion Decision Card and README pointers. Prepared for the next real plugin trust review; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
 - 2026-06-18: Added trial evidence index; ready to collect plugin trust proof links before validation decisions.
+
+- 2026-06-18: Added Trial Operator Handoff Checklist; sequence is ready for the next real trial, evidence still pending.

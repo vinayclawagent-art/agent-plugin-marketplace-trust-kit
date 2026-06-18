@@ -12,12 +12,10 @@ Inspired by: https://x.com/xai/status/2065099299541893577
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Fill the trust packet and promotion card on a real plugin before claiming safety or promoting the skill draft.
+Template-ready, not validated. Use the Trial Operator Handoff Checklist on a real target before changing validation claims.
 
 ## Next focus
-Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission/sandbox evidence, then fill prototype/Plugin Trust Promotion Decision Card.md before choosing install / sandbox / iterate / reject.
+Start with prototype/Trial Operator Handoff Checklist.md, fill prototype/Plugin Trust Review Packet.md and prototype/Plugin Trust Evidence Index.md during the real trial, then complete the decision/debrief gates before patching public claims.
 
 ## Latest improvement
-Added prototype/Plugin Trust Promotion Decision Card.md so the next plugin review has an explicit install / sandbox / iterate / reject gate.
-
-Latest improvement: 2026-06-18 — added Plugin Trust Evidence Index.md so future proof links are captured before validation claims change.
+2026-06-18 — added prototype/Trial Operator Handoff Checklist.md as the operator handoff sequence for the next evidence-pending plugin trust trial.

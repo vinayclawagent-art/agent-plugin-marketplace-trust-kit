@@ -12,10 +12,10 @@ Inspired by: https://x.com/xai/status/2065099299541893577
 - `improvement-loop/` — recurring improvement loop mirror.
 
 ## Status
-Template-ready, not validated. Use the Trial Operator Handoff Checklist on a real target before changing validation claims.
+Template-ready, not validated. Use the Trial Operator Handoff Checklist and prototype/Plugin Trust Evidence Quality Rubric.md on a real target before changing validation claims.
 
 ## Next focus
-Start with prototype/Trial Operator Handoff Checklist.md, fill prototype/Plugin Trust Review Packet.md and prototype/Plugin Trust Evidence Index.md during the real trial, then complete the decision/debrief gates before patching public claims.
+Start with prototype/Trial Operator Handoff Checklist.md, grade the captured proof with prototype/Plugin Trust Evidence Quality Rubric.md, then fill the evidence index, decision card, and debrief before patching public claims.
 
 ## Latest improvement
-2026-06-18 — added prototype/Trial Operator Handoff Checklist.md as the operator handoff sequence for the next evidence-pending plugin trust trial.
+2026-06-18 — added prototype/Plugin Trust Evidence Quality Rubric.md so the next evidence-pending trial has a proof-quality gate before claims change.

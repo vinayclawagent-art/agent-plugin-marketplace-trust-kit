@@ -18,4 +18,4 @@ A small, fillable artifact that turns the X signal into operator evidence instea
 - Convert the result into a before/after screenshot or concise newsletter example.
 - Promote the skill draft only after repeated success.
 
-Latest improvement: added [[Agent Plugin Marketplace Trust Kit/Post-Trial Plugin Trust Debrief Template]] on 2026-06-17; ready for next real trial, not validated.
+Latest improvement: 2026-06-18 — added `Plugin Trust Evidence Index.md` so future proof links are captured before promotion/debrief claims change.

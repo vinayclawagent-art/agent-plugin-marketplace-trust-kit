@@ -5,8 +5,8 @@ source_note: "[[Grok Build Plugin Marketplace as Agent App Store]]"
 package: "[[Agent Plugin Marketplace Trust Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/agent-plugin-marketplace-trust-kit"
 cadence: nightly
-last_improved: 2026-06-17
-next_focus: "Use the trust review packet on one real marketplace plugin, attach manifest/repo/permission/sandbox evidence, fill the Plugin Trust Promotion Decision Card, then complete the Post-Trial Plugin Trust Debrief Template before patching README/prototype/skill claims."
+last_improved: 2026-06-18
+next_focus: "Run the next real trial, fill [[Agent Plugin Marketplace Trust Kit/Plugin Trust Evidence Index]] with exact proof links, then complete the promotion/debrief gates before patching README/prototype/skill claims."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -31,3 +31,4 @@ Use the trust review packet on one real marketplace plugin, attach manifest/repo
 ## Change log
 - 2026-06-16: Added Plugin Trust Promotion Decision Card as the post-packet gate; prepared for next real plugin review, not validated.
 - 2026-06-16: Created loop and first artifact packet; prepared, not validated.
+- 2026-06-18: Added trial evidence index; prepared to capture plugin trust proof links, evidence still pending.

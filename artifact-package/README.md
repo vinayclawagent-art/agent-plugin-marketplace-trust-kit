@@ -37,6 +37,8 @@ Explain the workflow as a short evidence pipeline so Vinay can understand the ar
 ## Skill candidate
 Drafted under `Artifacts/Skills/agent-plugin-trust-review/SKILL.md`; keep as a draft until one real trial proves the procedure is reusable and non-duplicative.
 
+- Evidence index: [[Agent Plugin Marketplace Trust Kit/Plugin Trust Evidence Index]]
+
 ## Improvement backlog
 - [ ] Use the trust review packet on one real marketplace plugin and attach manifest/repo/permission/sandbox evidence.
 - [x] Add a promotion decision card so the next review has an explicit install / sandbox / iterate / reject gate.
@@ -46,6 +48,10 @@ Drafted under `Artifacts/Skills/agent-plugin-trust-review/SKILL.md`; keep as a d
 ## GitHub repo
 https://github.com/vinayclawagent-art/agent-plugin-marketplace-trust-kit
 
+- [x] Add a trial evidence index so future proof links are captured before validation claims change.
+- [ ] Fill [[Agent Plugin Marketplace Trust Kit/Plugin Trust Evidence Index]] during the next real trial.
+
 ## Change log
 - 2026-06-16: Added Plugin Trust Promotion Decision Card and README pointers. Prepared for the next real plugin trust review; no validation proof invented.
 - 2026-06-16: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
+- 2026-06-18: Added trial evidence index; ready to collect plugin trust proof links before validation decisions.
